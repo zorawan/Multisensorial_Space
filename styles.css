@@ -199,8 +199,35 @@ div.tooltip {
 footer {
 	margin-top: 10em;
 }
-iframe {
+/* iframe {
 	width: 100%;
 	height: 500px;
 	margin-bottom: 4em;
+} */
+#map{
+	width: 100%;
+	padding:.5em;
 }
+.fa {
+	padding: 20px;
+	font-size: 30px;
+	width: 30;
+	text-align: center;
+	text-decoration: none;
+	margin: 10px 20px 20px;
+	border-radius: 50%;
+  }
+  
+  .fa:hover {
+	  opacity: 0.7;
+  }
+  
+  
+  .fa-linkedin,.fa-instagram, .fa-dribbble, .fa-github  {
+	background: #3C4252;
+	color: white;
+  }
+
+  .source:hover, .contact:hover{
+	  color:#FF005C;
+  }

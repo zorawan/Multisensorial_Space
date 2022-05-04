@@ -88,6 +88,13 @@
         "Humidifier": "Off",
         "Skin_condition": "Great",
         "Eyes_condition": "Great",
-        "Feeling": "Same as yesterday. It is in excellent condition indoors without turning on a humidifer. I can feel it's not that humid compared to yesterday, but it's still at a reasonable level." 
+        "Feeling": "Same as yesterday. It is in excellent condition indoors without turning on a humidifier. I can feel it's not that humid compared to yesterday, but it's still at a reasonable level." 
+      },
+      {
+        "date":"May 4 2022",
+        "Humidifier": "Off",
+        "Skin_condition": "Great",
+        "Eyes_condition": "Fair",
+        "Feeling": "It's raining today. I like to smell the water in the air. It remind me of Taiwan. In this kind of humidity level, it is ok without applying lotion." 
       }
     ]

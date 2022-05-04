@@ -12,6 +12,8 @@
   <meta charset="UTF-8" />
   <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
   <!-- <script data-main="scripts/app" src="require.js"></script> -->
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 </head>
 
 <body>
@@ -73,9 +75,12 @@
       <p class=hero id=humN></p>
     </div>
   </div>
+  <div class=intro id=map>
+    <img src="source_img/map_newYork.png" id="map">
+  </div>
+  <!-- <iframe src="https://www.ventusky.com/?p=40.714;-74.004;10&l=humidity" title="Ventusky">
+  </iframe> -->
 
-  <iframe src="https://www.ventusky.com/?p=40.714;-74.004;10&l=humidity" title="Ventusky">
-  </iframe>
   <h2>My Body Diary
   </h2>
   <div class="intro">
@@ -93,11 +98,18 @@
   </div>
   <footer>
     <div>
-      <p>© 2022 Copy Right by Zora Wan</p>
-      <a href="https://zora-wan.com/aboutme">Contact Me</a>
-      <p>Data Source: <a href="https://www.ventusky.com/">Ventusky</a> | <a
-          href="https://openweathermap.org/api">OpenWeather</a>
+      <a onclick="window.open('https://www.linkedin.com/in/zora-w-513b4441','_blank')" class="fa fa-linkedin"></a>
+      <a onclick="window.open('https://www.instagram.com/zora_hsiangyun/','blank')" class="fa fa-instagram"></a>
+      <a onclick="window.open('https://dribbble.com/zorawan','blank')" class="fa fa-dribbble"></a>
+      <a onclick="window.open('https://github.com/zorawan','blank')" class="fa fa-github"></a>
+      <br>
+      <br>
+      <a onclick="window.open('https://zora-wan.com/aboutme','blank')" class="contact">Contact Me</a>
+      <br>
+      <br>
+      <p>Data Source: <a onclick="window.open('https://openweathermap.org/api','blank')" class="source">OpenWeather</a>
       </p>
+      <p>© 2022 Copy Right by Zora Wan</p>
 
 
     </div>
