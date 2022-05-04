@@ -1,0 +1,12 @@
+                     
+
+"main":{
+    "temp":306.15, // temperature at the moment of calculation
+    "pressure":1013,
+    "humidity":44,
+    "temp_min":306, //min  temperature in the city at the moment of calculation
+    "temp_max":306 //max  temperature in the city at the moment of calculation
+ },
+                      
+ 
+                   

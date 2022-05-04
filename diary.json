@@ -1,0 +1,93 @@
+
+[ {
+      "date":"Apr 21 2022",
+      "Humidifier": "On",
+      "Skin_condition": "Fair",
+      "Eyes_condition": "Dry eyes during the afternoon.",
+      "Feeling": "Feel the same dryness as yesterday. Even though I felt comfy while breathing, I got tears with dry eyes during the entire afternoon."
+    },
+ {
+        "date":"Apr 22 2022",
+        "Humidifier": "On",
+        "Skin_condition": "Fair",
+        "Eyes_condition": "Dry eyes during the morning after make-up.",
+        "Feeling": "Feel better with the humidifier but felt the dryness when I was outside during the afternoon."
+      },
+      {
+        "date":"Apr 23 2022",
+        "Humidifier": "Off",
+        "Skin_condition": "Fair",
+        "Eyes_condition": "Comfy, no symptom",
+        "Feeling": "Feel comfy with the indoor humidity level."
+      },
+      {
+        "date":"Apr 24 2022",
+        "Humidifier": "On",
+        "Skin_condition": "Fair",
+        "Eyes_condition": "Got dry eyes after make-up but feel better after a while.",
+        "Feeling": "Feel comfortable with the indoor humidity level. I was outside during the afternoon. The high-speed wind made the dryness on my skin."
+      },
+      {
+        "date":"Apr 25 2022",
+        "Humidifier": "On",
+        "Skin_condition": "Good",
+        "Eyes_condition": "Good",
+        "Feeling": "Good when I'm indoors and in outdoor conditions. My face gets oily afternoon." 
+      },
+      {
+        "date":"Apr 26 2022",
+        "Humidifier": "On",
+        "Skin_condition": "Great",
+        "Eyes_condition": "Great",
+        "Feeling": "The best day since I started recording my physical condition. I can feel it's more humid compared to previous days." 
+      },
+      {
+        "date":"Apr 27 2022",
+        "Humidifier": "Off",
+        "Skin_condition": "Great",
+        "Eyes_condition": "Great",
+        "Feeling": "Feel unwell due to menstruation. Skin becomes sensitive today." 
+      },
+      {
+        "date":"Apr 28 2022",
+        "Humidifier": "Off",
+        "Skin_condition": "Good",
+        "Eyes_condition": "Dry",
+        "Feeling": "I can feel the dryness all day, especially in my eyes. I got tears after make-up and when I was outdoor. It's windy, which causes dry eyes and tears." 
+      },
+      {
+        "date":"Apr 29 2022",
+        "Humidifier": "On",
+        "Skin_condition": "Good",
+        "Eyes_condition": "Dry",
+        "Feeling": "It is comfortable indoors. However, it's windy outside which causes dry eyes all day." 
+      },
+      {
+        "date":"Apr 30 2022",
+        "Humidifier": "On",
+        "Skin_condition": "Good",
+        "Eyes_condition": "Fair",
+        "Feeling": "The sky is clear. I can see through the air for very far. I don't really feel the dryness maybe because I'm indoor almost the all time." 
+      },
+      {
+        "date":"May 1 2022",
+        "Humidifier": "On",
+        "Skin_condition": "Fair",
+        "Eyes_condition": "Fair",
+        "Feeling": "I can feel the tension a little dry on my skin, and my face gets oily after having dinner. I spend all day looking at the screen, which causes dry eyes in the afternoon." 
+      },
+      {
+        "date":"May 2 2022",
+        "Humidifier": "On",
+        "Skin_condition": "Great",
+        "Eyes_condition": "Great",
+        "Feeling": "It's a nice day indoors and outdoor. It was foggy outside, and the scattered light could be worse than the direct sunlight, so I decided to apply sunscreen for skin protection." 
+      },
+      {
+        "date":"May 3 2022",
+        "Humidifier": "Off",
+        "Skin_condition": "Great",
+        "Eyes_condition": "Great",
+        "Feeling": "Same as yesterday. It is in excellent condition indoors without turning on a humidifer. I can feel it's not that humid compared to yesterday, but it's still at a reasonable level." 
+      }
+    ]

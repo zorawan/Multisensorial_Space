@@ -1,0 +1,206 @@
+body {
+	background-color: #f2f4f9;
+	font-family: "Poppins", sans-serif;
+	text-align: center;
+	color: hsl(224, 27%, 25%);
+	margin: 4em;
+}
+h1 {
+	font-weight: 100;
+	font-size: 6em;
+}
+h2 {
+	font-size: 2em;
+	font-weight: 500;
+	margin-top: 4em;
+	margin-bottom: 2em;
+}
+p {
+	font-size: 1em;
+	font-weight: 200;
+	padding: 0em 2em 0em 2em;
+}
+.diary {
+	text-align: left;
+	margin: 0px 60px 30px 30px;
+	font-size: 1.3em;
+	font-weight: 200;
+	line-height: 2em;
+}
+.lable {
+	font-weight: 600;
+}
+#day {
+	font-size: 1.6em;
+	font-weight: 100;
+	line-height: 2em;
+	padding-bottom: 1em;
+}
+#top {
+	padding-bottom: 4em;
+}
+.thired {
+	padding: 0em 10em 0em 10em;
+}
+.intro {
+	flex-direction: row;
+	display: flex;
+
+	padding: 3em 0em 3em 0em;
+	/* justify-content: space-evenly; */
+
+	background: #f2f4f9;
+	box-shadow: -6px -6px 3px rgba(255, 255, 255, 0.5),
+		4px 4px 2px rgba(0, 0, 0, 0.15),
+		inset -2px -2px 1px rgba(255, 255, 255, 0.25),
+		inset 2px 2px 2px rgba(0, 0, 0, 0.05),
+		inset 4px 4px 2px rgba(255, 255, 255, 0.2);
+	border-radius: 12px;
+}
+#temp,
+#dew,
+#hum {
+	flex-basis: 33%;
+}
+.city {
+	margin-top: 6em;
+}
+.sepc {
+	flex-direction: row;
+	display: flex;
+	justify-content: space-around;
+}
+.circleBack {
+	justify-content: space-evenly;
+	align-items: center;
+	display: flex;
+	width: 125px;
+	height: 125px;
+
+	background: #f2f4f9;
+	box-shadow: -6px -6px 4px rgba(255, 255, 255, 0.5),
+		4px 4px 3px rgba(0, 0, 0, 0.15),
+		inset -2px -2px 2px rgba(255, 255, 255, 0.25),
+		inset 2px 2px 3px rgba(0, 0, 0, 0.05),
+		inset 4px 4px 3px rgba(255, 255, 255, 0.2);
+	border-radius: 70px;
+}
+.hero {
+	font-weight: 100;
+	font-size: 3em;
+	text-align: left;
+	padding-left: 0em;
+}
+.spec2 {
+	text-align: left;
+	padding-left: 1em;
+}
+
+* {
+	box-sizing: border-box;
+}
+
+.mySlides {
+	display: none;
+}
+.my-slide-container {
+	display: flex;
+	flex-direction: row;
+}
+img {
+	vertical-align: middle;
+}
+.skin_img {
+	margin-left: 50px;
+	width: 400px;
+}
+/* Slideshow container */
+.slideshow-container {
+	max-width: 1200px;
+	position: relative;
+	margin: auto;
+}
+
+/* Next & previous buttons */
+.prev,
+.next {
+	cursor: pointer;
+	position: absolute;
+	top: 50%;
+	width: auto;
+	padding: 16px;
+	margin-top: -22px;
+	color: hsl(224, 27%, 25%);
+	font-weight: bold;
+	font-size: 18px;
+	transition: 0.6s ease;
+	border-radius: 0 3px 3px 0;
+	user-select: none;
+}
+
+/* Position the "next button" to the right */
+.next {
+	right: 0;
+	border-radius: 6px 0 0 6px;
+}
+.prev {
+	left: 0;
+	border-radius: 0 6px 6px 0;
+}
+
+/* On hover, add a black background color with a little bit see-through */
+.prev:hover,
+.next:hover {
+	background-color: rgba(0, 0, 0, 0.6);
+	color: hsl(224, 27%, 100%);
+}
+
+.active,
+.dot:hover {
+	background-color: #717171;
+}
+
+/* Fading animation */
+.fade {
+	animation-name: fade;
+	animation-duration: 1.5s;
+}
+
+@keyframes fade {
+	from {
+		opacity: 0.4;
+	}
+	to {
+		opacity: 1;
+	}
+}
+
+/* On smaller screens, decrease text size */
+@media only screen and (max-width: 300px) {
+	.prev,
+	.next,
+	.text {
+		font-size: 13px;
+	}
+}
+div.tooltip {
+	position: absolute;
+	text-align: center;
+	width: auto;
+	height: auto;
+	padding: 20px;
+	font: 14px;
+	background: hsl(224, 27%, 25%);
+	color: antiquewhite;
+	border: 0px;
+	border-radius: 6px;
+	pointer-events: none;
+}
+footer {
+	margin-top: 10em;
+}
+iframe {
+	width: 100%;
+	height: 500px;
+	margin-bottom: 4em;
+}
