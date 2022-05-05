@@ -205,8 +205,15 @@ footer {
 	margin-bottom: 4em;
 } */
 #map{
-	width: 100%;
-	padding:.5em;
+	width: 50%;
+	padding:0 3em 0 3em;
+}
+.text_NY{
+	text-align:left;
+	font-size: 4em;
+}
+.text_location{
+	text-align:left;
 }
 .fa {
 	padding: 20px;
