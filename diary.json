@@ -96,5 +96,12 @@
         "Skin_condition": "Great",
         "Eyes_condition": "Fair",
         "Feeling": "It's raining today. I like to smell the water in the air. It remind me of Taiwan. In this kind of humidity level, it is ok without applying lotion." 
+      },
+      {
+        "date":"May 5 2022",
+        "Humidifier": "Off",
+        "Skin_condition": "Fair",
+        "Eyes_condition": "Dry with tears",
+        "Feeling": "Start to feel the dryness after make-up. My eyes get itchy during the morning. Indoor condition without humidifier is acceptable." 
       }
     ]
