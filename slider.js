@@ -1,7 +1,6 @@
 var slideIndex = 0;
 document.getElementById("Prev").addEventListener("click", function () {
 	showSlides(--slideIndex);
-	console.log("prev click");
 });
 document.getElementById("Next").addEventListener("click", function () {
 	showSlides(++slideIndex);
@@ -13,6 +12,7 @@ function showContent(array) {
 
 	for (let data of array) {
 		//show image
+
 		var date = new Date(data.date);
 		var imageName = date.getMonth() + 1 + "_" + date.getDate();
 		var container = document.createElement("div");
