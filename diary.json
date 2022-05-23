@@ -103,5 +103,131 @@
         "Skin_condition": "Fair",
         "Eyes_condition": "Dry with tears",
         "Feeling": "Start to feel the dryness after make-up. My eyes get itchy during the morning. Indoor condition without humidifier is acceptable." 
+      },
+      {
+        "date":"May 6 2022",
+        "Humidifier": "Off",
+        "Skin_condition": "Excellent",
+        "Eyes_condition": "Good",
+        "Feeling": "It is raining today. I tried to record my skin condition after taking a shower. It looks smoother. The humidity is at a comfortable level. It makes me fall in love with New York's raining day." 
+      },
+      {
+        "date":"May 7 2022",
+        "Humidifier": "Off",
+        "Skin_condition": "Excellent",
+        "Eyes_condition": "Good",
+        "Feeling": "Same as yesterday, I feel more comfortable with the outdoor condition. Without the humidifier in the school building, my eyes get super dry during the afternoon." 
+      },
+      {
+        "date":"May 8 2022",
+        "Humidifier": "Off",
+        "Skin_condition": "Good",
+        "Eyes_condition": "Good",
+        "Feeling": "It became dryer after the rain. I was indoors all the time without a humidifier. It was not at an uncomfortable level, but I could still feel the difference. " 
+      },
+      {
+        "date":"May 9 2022",
+        "Humidifier": "Off",
+        "Skin_condition": "Bad",
+        "Eyes_condition": "Fair",
+        "Feeling": "My eyes got itchy after make-up. My skin is delicate. The temperature got warmer. I think it will be the typical weather condition throughout the whole summer." 
+      },
+      {
+        "date":"May 10 2022",
+        "Humidifier": "On",
+        "Skin_condition": "Fair",
+        "Eyes_condition": "Fair",
+        "Feeling": "I can feel the dryness on my skin, especially my face and eyelid. I will apply lotion tonight and see if I will feel better tomorrow. The weather is so good outside. I will try to go for a walk and experience the outdoor condition." 
+      },
+      {
+        "date":"May 11 2022",
+        "Humidifier": "Off",
+        "Skin_condition": "Good",
+        "Eyes_condition": "Good",
+        "Feeling": "Same as yesterday. The weather is getting warmer. I go out more often. No symptoms showing up. I checked my eyes, skin, and hair, and they look good for me as my typical condition." 
+      },
+      {
+        "date":"May 12 2022",
+        "Humidifier": "Off",
+        "Skin_condition": "Fair",
+        "Eyes_condition": "Fair",
+        "Feeling": "I started to feel dry since the last rain. I can feel the tightness in my skin and dry eyes. It's not a severe problem, but sensing the dryness makes me aware of the changing of the four seasons." 
+      },
+      {
+        "date":"May 13 2022",
+        "Humidifier": "Off",
+        "Skin_condition": "Fair",
+        "Eyes_condition": "Fair",
+        "Feeling": "It is the same as yesterday. The dryness actually affects not dramatically my skin but my nails. I am thinking of taking photos of my nails but wondering about the consistency of this project." 
+      },
+      {
+        "date":"May 14 2022",
+        "Humidifier": "Off",
+        "Skin_condition": "Good",
+        "Eyes_condition": "Fair",
+        "Feeling": "After recording for a couple weeks, I think my eyes are more sensitive than my skin. I can feel the dryness more often, and I need artificial tears even though it's raining today." 
+      },
+      {
+        "date":"May 15 2022",
+        "Humidifier": "Off",
+        "Skin_condition": "Good",
+        "Eyes_condition": "Bad",
+        "Feeling": "My eyes are still dry. It may be caused by indoor air conditioning. However, the weather is so great outside. It is suitable for walking, and I plan to do so." 
+      },
+      {
+        "date":"May 16 2022",
+        "Humidifier": "Off",
+        "Skin_condition": "Good",
+        "Eyes_condition": "Good",
+        "Feeling": "No symptoms show up today. I love the warm weather, but my face gets oil in the afternoon. I now need to use more oil control film than winter. Today is my final presentation. I hope everything goes well." 
+      },
+      {
+        "date":"May 17 2022",
+        "Humidifier": "Off",
+        "Skin_condition": "Good",
+        "Eyes_condition": "Fair",
+        "Feeling": "I feel tired today, and my body is sticky. I don't like this feeling. It makes me think about the hot summer in Taiwan." 
+      },
+      {
+        "date":"May 18 2022",
+        "Humidifier": "Off",
+        "Skin_condition": "Good",
+        "Eyes_condition": "Good",
+        "Feeling": "Good with everything~ besides, the wind blew my mind during the night. Forgot to take a photo of my skin, so I recorded the hair instead." 
+      },
+      {
+        "date":"May 19 2022",
+        "Humidifier": "Off",
+        "Skin_condition": "Bad",
+        "Eyes_condition": "Good",
+        "Feeling": "Flighting to San Francisco today. It was great because the rain made me feel comfy. But it was dry on the flight, and I started to tear nails.No photo on the flight but with the hair photo in the early morning at the airport." 
+      },
+      {
+        "date":"May 20 2022",
+        "Humidifier": "Off",
+        "Skin_condition": "Good",
+        "Eyes_condition": "Good",
+        "Feeling": "Walking in the San Francisco downtown in the morning. It was great with so much sunlight, and I don't feel dryness in my eyes or skin today." 
+      },
+      {
+        "date":"May 21 2022",
+        "Humidifier": "Off",
+        "Skin_condition": "Good",
+        "Eyes_condition": "Good",
+        "Feeling": "Nice weather in California. A little bit hot at noon. The humidity is low, but I don't really feel it because it was no wind outdoor." 
+      },
+      {
+        "date":"May 22 2022",
+        "Humidifier": "On",
+        "Skin_condition": "Good",
+        "Eyes_condition": "Fair",
+        "Feeling": "I forgot the take a photo today. It was stuffy during the afternoon, so I opened doors to let the air circulate. We turned on the humidifier for Lilo because she was sick. I hope she will feel better soon." 
+      },
+      {
+        "date":"May 23 2022",
+        "Humidifier": "On",
+        "Skin_condition": "Good",
+        "Eyes_condition": "Fair",
+        "Feeling": "I tried to adapt to the temperature in the house, which is pretty low during the night. I sometimes shake while sleeping and do not willing to move and stretch my body during days." 
       }
     ]

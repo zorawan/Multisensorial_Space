@@ -1,0 +1,125 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <link rel="stylesheet" href="styles.css">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@100;200;300;400;500;600;700;800;900&display=swap"
+    rel="stylesheet">
+  <script src="https://d3js.org/d3.v7.min.js"></script>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta charset="UTF-8" />
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
+  <!-- <script data-main="scripts/app" src="require.js"></script> -->
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+</head>
+
+<body>
+  <h1>
+    SEEING HUMIDITY
+  </h1>
+  <div id=top>
+    <h2>
+      Can you feel when you see?
+    </h2>
+    <p class=thired>Humidity is part of the primary sense for me to feel my surroundings. I want to visualize the skin
+      sense and
+      transfer it to a visual interpretation.
+    </p>
+  </div>
+  <div class=intro id=explanation>
+    <div id=temp>
+      <h3>Temperature</h3>
+      <p>The measure of hotness or coldness expressed in terms of any of several scales, including Fahrenheit and
+        Celsius. </p>
+    </div>
+    <div id=dew>
+      <h3>Dew Point</h3>
+      <p>The temperature the air needs to be cooled to (at constant pressure) in order to achieve a relative humidity
+        (RH) of 100%.</p>
+    </div>
+    <div id=hum>
+      <h3>humidity</h3>
+      <p>The likelihood for precipitation, dew, or fog to be present.</p>
+    </div>
+
+  </div>
+
+
+
+  <h2 id=today>
+  </h2>
+  <div class=sepc>
+
+    <div class=circleBack>
+      <img src="ic_temp.svg" alt="ic temp" width=60px, height=60px>
+    </div>
+    <div class=spec2>Temperature<br>
+      <p class=hero id=tempN></p>
+    </div>
+    <div class=circleBack>
+      <img src="ic_hum.svg" alt="ic dew" width=60px, height=60px>
+    </div>
+    <div class=spec2>Dew Point<br>
+      <p class=hero id=dewN></p>
+    </div>
+    <div class=circleBack>
+      <img src="source_img/ic_4.svg" alt="ic hum" width=60px, height=60px>
+      <!-- <svg width="46" height="46"> -->
+      <!-- <circle cx="23" cy="23" r="23" fill="#00FF29" /> -->
+      <!-- </svg> -->
+    </div>
+    <div class=spec2>Humidity<br>
+      <p class=hero id=humN></p>
+    </div>
+  </div>
+  <div class=intro>
+    <img src="source_img/map_newYork.png" id="map">
+    <div>
+      <h3 class="text_location">Current Location</h3>
+      <h1 class="text_NY">New York</h1>
+    </div>
+  </div>
+  <!-- <iframe src="https://www.ventusky.com/?p=40.714;-74.004;10&l=humidity" title="Ventusky">
+  </iframe> -->
+
+  <h2>My Body Diary
+  </h2>
+  <div class="intro">
+    <div id="sliderShow" class="slideshow-container">
+      <a id="Prev" class="prev">❮</a>
+      <a id="Next" class="next">❯</a>
+    </div>
+    <br>
+  </div>
+  <h2>
+    Humidity Record of 2022
+  </h2>
+
+  <div class="intro" id="myData">
+  </div>
+  <footer>
+    <div>
+      <a onclick="window.open('https://www.linkedin.com/in/zora-w-513b4441','_blank')" class="fa fa-linkedin"></a>
+      <a onclick="window.open('https://www.instagram.com/zora_hsiangyun/','blank')" class="fa fa-instagram"></a>
+      <a onclick="window.open('https://dribbble.com/zorawan','blank')" class="fa fa-dribbble"></a>
+      <a onclick="window.open('https://github.com/zorawan','blank')" class="fa fa-github"></a>
+      <br>
+      <br>
+      <a onclick="window.open('https://zora-wan.com/aboutme','blank')" class="contact">Contact Me</a>
+      <br>
+      <br>
+      <p>Data Source: <a onclick="window.open('https://openweathermap.org/api','blank')" class="source">OpenWeather</a>
+      </p>
+      <p>© 2022 Copy Right by Zora Wan</p>
+
+
+    </div>
+  </footer>
+  <script type="module" src="humidity.js"></script>
+  <script type="module" src="slider.js"></script>
+</body>
+
+</html>
