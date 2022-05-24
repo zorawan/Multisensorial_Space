@@ -113,6 +113,7 @@ img {
 .skin_img {
 	margin-left: 50px;
 	width: 400px;
+	background: url(img/no_image.JPG) no-repeat scroll 0 0;
 }
 /* Slideshow container */
 .slideshow-container {

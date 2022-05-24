@@ -229,5 +229,12 @@
         "Skin_condition": "Good",
         "Eyes_condition": "Fair",
         "Feeling": "I tried to adapt to the temperature in the house, which is pretty low during the night. I sometimes shake while sleeping and do not willing to move and stretch my body during days." 
+      },
+      {
+        "date":"May 24 2022",
+        "Humidifier": "On",
+        "Skin_condition": "Fair",
+        "Eyes_condition": "Fair",
+        "Feeling": "We only turn the humidifier on at night, so I feel the dryness right after my morning routine. I can also feel the roughness when I touch my skin." 
       }
     ]
