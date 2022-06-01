@@ -22,7 +22,6 @@ function showContent(array) {
 
 		var image = document.createElement("img");
 		image.src = "img/" + imageName + ".JPG";
-		image.src = "img/" + "no_image" + ".JPG";
 		image.className = "skin_img";
 		slideContainer.append(image);
 

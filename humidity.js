@@ -90,6 +90,7 @@ fetch(url)
 		var myColor = d3.scaleLinear().range([0, 4]).domain([0, 100]);
 		// var myColor = d3.scaleLinear().range(["white", "#4CFF69"]).domain([0, 100]);
 		console.log(myColor);
+		console.log(data);
 		svg
 			.selectAll()
 			.data(data)
@@ -115,14 +116,14 @@ fetch(url)
 				return myColor(d.humidity.toFixed(2));
 			})
 
-			// .on("mouseover", showTooltip)
 			.on("mouseover", function (i, d) {
 				console.log(i);
 				tooltip.transition().duration(200).style("opacity", 1);
 
 				tooltip
 					.html(
-						"Location: New York" +
+						"Location: " +
+							d.city +
 							"<br>" +
 							"Humidity: " +
 							d.humidity.toFixed(2) +
@@ -143,7 +144,7 @@ fetch(url)
 			.data(data)
 			.text(function (d) {
 				const lastDate = data[data.length - 1];
-				return lastDate.date;
+				return new Date(lastDate.date).toDateString();
 			});
 
 		var svg = d3
@@ -162,7 +163,7 @@ fetch(url)
 			.data(data)
 			.text(function (d) {
 				const lastDate = data[data.length - 1];
-				const lasteDateDew = (lastDate.dew - 273.15).toFixed(2) + " °C";
+				const lasteDateDew = (lastDate.dew_point - 273.15).toFixed(2) + " °C";
 				return lasteDateDew;
 			});
 
@@ -174,5 +175,14 @@ fetch(url)
 				const lastDate = data[data.length - 1];
 				const lasteDateHum = lastDate.humidity.toFixed(2) + " %";
 				return lasteDateHum;
+			});
+		var svg = d3
+			.select(".text_location")
+			.append("text")
+			.data(data)
+			.text(function (d) {
+				const location = data[data.length - 1];
+				const lasteDateLocation = location.city;
+				return lasteDateLocation;
 			});
 	});
