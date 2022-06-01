@@ -236,5 +236,61 @@
         "Skin_condition": "Fair",
         "Eyes_condition": "Fair",
         "Feeling": "We only turn the humidifier on at night, so I feel the dryness right after my morning routine. I can also feel the roughness when I touch my skin." 
+      },
+      {
+        "date":"May 25 2022",
+        "Humidifier": "Off",
+        "Skin_condition": "bad",
+        "Eyes_condition": "Fair",
+        "Feeling": "My skin is super dry today because I wash my hand and use sanitizer more often. Lilo got covid on May 22. Today, I also got a positive result, which made me uncomfortable maintaining my daily routine." 
+      },
+      {
+        "date":"May 26 2022",
+        "Humidifier": "On (at night)",
+        "Skin_condition": "Fair",
+        "Eyes_condition": "Fair",
+        "Feeling": "I couldn't pay attention to things. I got a headache and have favor all day. I lost all my energy, felt tired, and ached my muscle." 
+      },
+      {
+        "date":"May 27 2022",
+        "Humidifier": "On (at night)",
+        "Skin_condition": "Fair",
+        "Eyes_condition": "Bad",
+        "Feeling": "I am getting better today, even though I still have all the symptoms. My eyes get dry and itchy, maybe because of my physical condition. The weather is excellent, but I still felt cold this morning." 
+      },
+      {
+        "date":"May 28 2022",
+        "Humidifier": "On (at night)",
+        "Skin_condition": "Good",
+        "Eyes_condition": "Good",
+        "Feeling": "I feel better today, so I think my physical condition is also getting better. It is annoying that I got so much acne on my face and back. The reason may be the unbalance of my hormone. It is not usual that I still have so much acne after the period. I hope it is because of the covid, so I won't see it after recovering." 
+      },
+      {
+        "date":"May 29 2022",
+        "Humidifier": "On (at night)",
+        "Skin_condition": "Fair",
+        "Eyes_condition": "Bad",
+        "Feeling": "I got dry eyes during the day. I tried to relax my eyes by looking at the trees outside. We have a fantastic view from our house." 
+      },
+      {
+        "date":"May 30 2022",
+        "Humidifier": "On (at night)",
+        "Skin_condition": "Fair",
+        "Eyes_condition": "Fair",
+        "Feeling": "Nothing special today. My skin condition is getting worse, but there is nothing I can do to make it better. It is not related to the weather or the humidity level. Since I'm on a diet and losing weight, my hormone might get unbalanced these days." 
+      },
+      {
+        "date":"May 31 2022",
+        "Humidifier": "On (at night)",
+        "Skin_condition": "Fair",
+        "Eyes_condition": "Fair",
+        "Feeling": "The weather is excellent! I sleep a lot these days, and I hope it helps my health." 
+      },
+      {
+        "date":"May 31 2022",
+        "Humidifier": "On (at night)",
+        "Skin_condition": "Fair",
+        "Eyes_condition": "Fair",
+        "Feeling": "My skin condition is getting better; all the scars are getting healed. It is a little bit dry on my body skin but still at the acceptable level." 
       }
     ]
