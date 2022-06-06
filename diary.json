@@ -313,5 +313,26 @@
         "Skin_condition": "Bad",
         "Eyes_condition": "Bad",
         "Feeling": "It is foggy outdoor, which is a typical weather condition around Oakland Hill, but I still feel dry on my skin. The weather pattern in California is such a mystery. I first learned that it is hot during summer and dry in the winter. Then I realized it is not always the case. It depends on the location. San Jose and San Francisco can have very different temperatures during the day. Then I live on Oakland Hill, where it looks foggy but still can dry to cause a wildfire." 
-      }
+      },
+      {
+        "date":"June 4 2022",
+        "Humidifier": "On (at night)",
+        "Skin_condition": "Bad",
+        "Eyes_condition": "Fair",
+        "Feeling": "I can feel it is more humid these days. However, my hand skin is still dry and peeling because I wash my hands more often. I am too lazy to apply lotion." 
+      },
+      {
+        "date":"June 5 2022",
+        "Humidifier": "On (at night)",
+        "Skin_condition": "Bad",
+        "Eyes_condition": "Fair",
+        "Feeling": "After 12am, I was on my way back home from the airport. After sending mom back, it started to rain. Such a melancholy night, I thought..." 
+      },
+      {
+        "date":"June 6 2022",
+        "Humidifier": "On (at night)",
+        "Skin_condition": "Bad",
+        "Eyes_condition": "Bad",
+        "Feeling": "I checked the humidity level in Oakland, which is high these days. But I don't feel it the same as while in Taiwan. Because of the low dew point, the air can not hold too many water molecules at the represented temperature." 
+      }     
     ]
