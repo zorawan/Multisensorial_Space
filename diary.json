@@ -334,5 +334,75 @@
         "Skin_condition": "Bad",
         "Eyes_condition": "Bad",
         "Feeling": "I checked the humidity level in Oakland, which is high these days. But I don't feel it the same as while in Taiwan. Because of the low dew point, the air can not hold too many water molecules at the represented temperature." 
-      }     
+      },
+      {
+        "date":"June 7 2022",
+        "Humidifier": "Off",
+        "Skin_condition": "Bad",
+        "Eyes_condition": "Bad",
+        "Feeling": "Still feel dry and uncomfortable today. I am looking forward to tomorrow's trip to Hawaii. A warm and humid tropical weather for me to spend time in the water." 
+      },
+      {
+        "date":"June 8 2022",
+        "Humidifier": "Off",
+        "Skin_condition": "Bad",
+        "Eyes_condition": "Bad",
+        "Feeling": "Still feel dry and uncomfortable today. I am looking forward to tomorrow's trip to Hawaii. A warm and humid tropical weather for me to spend time in the water." 
+      },
+      {
+        "date":"June 9 2022",
+        "Humidifier": "Off",
+        "Skin_condition": "Good",
+        "Eyes_condition": "Good",
+        "Feeling": "I did not experience any uncomfortable feeling in my skin or eyes. I applied sunscreen a couple times today. The sunscreen with a watery type texture, which is my favorite." 
+      }, 
+      {
+        "date":"June 10 2022",
+        "Humidifier": "Off",
+        "Skin_condition": "Good",
+        "Eyes_condition": "Good",
+        "Feeling": "I swam with sea turtles! I spent about 2 hours in seawater in the morning and 2 hours in the pool during the nighttime with Lilo. I feel comfy with the fans on condition in the room." 
+      },
+      {
+        "date":"June 11 2022",
+        "Humidifier": "Off",
+        "Skin_condition": "Good",
+        "Eyes_condition": "Good",
+        "Feeling": "We went to Lahaina for my surf lesson. It was sunny and hot. The seawater was warm and glassy, which was perfect for practicing. I tried the body oil after showering. I got tan and can see the difference between the two parts of my body. " 
+      },
+      {
+        "date":"June 12 2022",
+        "Humidifier": "Off",
+        "Skin_condition": "Good",
+        "Eyes_condition": "Good",
+        "Feeling": "We were on a Hana road trip and visited some spots on the road, including twin falls and Koki beach. The weather on the mountain was cooler and moist. The wind was too high on the beach." 
+      },
+      {
+        "date":"June 13 2022",
+        "Humidifier": "Off",
+        "Skin_condition": "Good",
+        "Eyes_condition": "Good",
+        "Feeling": "We swam with sea turtles again! With Lilo, this time, we spent more time in the seawater. And we swam in the pool at night, the same as on previous days. I apply lotion after showering because I felt I need to after socking in water for a long time." 
+      },
+      {
+        "date":"June 14 2022",
+        "Humidifier": "Off",
+        "Skin_condition": "Good",
+        "Eyes_condition": "Good",
+        "Feeling": "We planned to go to the beach again, but it was too windy on the beach. The wind spend was almost 20MPH, so we went back to the pool. I swam for less than an hour because it was too sunny. I don't want to get tan anymore." 
+      },
+      {
+        "date":"June 15 2022",
+        "Humidifier": "Off",
+        "Skin_condition": "Good",
+        "Eyes_condition": "Good",
+        "Feeling": "On the way to the airport, we had a brunch outdoor, and we walked in a park that had a playground. I did not apply sunscreen today because I thought I would spend most of my time in a car and airplane where do not expose to sunshine. However, I was wrong." 
+      },
+      {
+        "date":"June 16 2022",
+        "Humidifier": "Off",
+        "Skin_condition": "Good",
+        "Eyes_condition": "Bad",
+        "Feeling": "Right after returning to Oakland, I immediately felt the coldness and dryness. My eyes are itching, even though there is no sight on my skin, but I believe my skin will start getting dry and peeling soon." 
+      }        
     ]
