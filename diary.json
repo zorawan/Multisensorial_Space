@@ -404,5 +404,12 @@
         "Skin_condition": "Good",
         "Eyes_condition": "Bad",
         "Feeling": "Right after returning to Oakland, I immediately felt the coldness and dryness. My eyes are itching, even though there is no sight on my skin, but I believe my skin will start getting dry and peeling soon." 
+      },
+      {
+        "date":"June 17 2022",
+        "Humidifier": "On (at night)",
+        "Skin_condition": "Good",
+        "Eyes_condition": "Fair",
+        "Feeling": "It is too cold during the night, especially with the humidifier on. It made me sleep more. I feel like I am starting to hibernate. But with the humidifier on, My eyes feel better compared to yesterday." 
       }        
     ]
