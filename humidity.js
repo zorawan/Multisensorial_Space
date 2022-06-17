@@ -127,7 +127,11 @@ fetch(url)
 							"<br>" +
 							"Humidity: " +
 							d.humidity.toFixed(2) +
-							" %"
+							" %" +
+							"<br>" +
+							"Dew Point: " +
+							(d.dew_point - 273.15).toFixed(2) +
+							" °C"
 					)
 					.style("left", i.pageX - 50 + "px")
 					.style("top", i.pageY - 100 + "px")
