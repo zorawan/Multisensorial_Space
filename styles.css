@@ -90,10 +90,13 @@ p {
 	font-size: 3em;
 	text-align: left;
 	padding-left: 0em;
+	margin-top:20px;
+
 }
 .spec2 {
 	text-align: left;
 	padding-left: 1em;
+	padding-top: 1em;
 }
 
 * {
@@ -242,4 +245,14 @@ iframe{
 
   .source:hover, .contact:hover{
 	  color:#FF005C;
+  }
+  #legend{
+	flex-direction: row;
+	display: flex;
+	align-items: center;
+	margin-top:1em;
+  }
+  #legend-text{
+	padding-right: 12px;
+	padding-left: 46px;
   }
