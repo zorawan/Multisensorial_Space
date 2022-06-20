@@ -241,10 +241,12 @@ iframe{
   .fa-linkedin,.fa-instagram, .fa-dribbble, .fa-github  {
 	background: #3C4252;
 	color: white;
+	cursor: pointer;
   }
 
   .source:hover, .contact:hover{
 	  color:#FF005C;
+	  cursor: pointer;
   }
   #legend{
 	flex-direction: row;

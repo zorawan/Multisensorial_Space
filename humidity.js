@@ -122,7 +122,10 @@ fetch(url)
 
 				tooltip
 					.html(
-						"Location: " +
+						"Date: " +
+							new Date(d.date).toDateString() +
+							"<br>" +
+							"Location: " +
 							d.city +
 							"<br>" +
 							"Humidity: " +
