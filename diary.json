@@ -411,5 +411,26 @@
         "Skin_condition": "Good",
         "Eyes_condition": "Fair",
         "Feeling": "It is too cold during the night, especially with the humidifier on. It made me sleep more. I feel like I am starting to hibernate. But with the humidifier on, My eyes feel better compared to yesterday." 
-      }        
+      },
+      {
+        "date":"June 18 2022",
+        "Humidifier": "On (at night)",
+        "Skin_condition": "Good",
+        "Eyes_condition": "Bad",
+        "Feeling": "I started to wear long sleeves and socks for sleeping. I feel much better during the night." 
+      },
+      {
+        "date":"June 19 2022",
+        "Humidifier": "Off",
+        "Skin_condition": "Good",
+        "Eyes_condition": "Bad",
+        "Feeling": "My eyes get worse when using my phone. I know I need to reduce screen time for eye relaxation, but I just can't make it. I tried the eyes drops, which eased the uncomfortable feeling for half of a day." 
+      },
+      {
+        "date":"June 20 2022",
+        "Humidifier": "On",
+        "Skin_condition": "Fair",
+        "Eyes_condition": "Bad",
+        "Feeling": "The same symptom in my eyes. I used the eyes drops and turned on the humidifier during the daytime. I hope to be better tomorrow." 
+      }         
     ]
