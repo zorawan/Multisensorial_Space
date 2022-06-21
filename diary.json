@@ -432,5 +432,12 @@
         "Skin_condition": "Fair",
         "Eyes_condition": "Bad",
         "Feeling": "The same symptom in my eyes. I used the eyes drops and turned on the humidifier during the daytime. I hope to be better tomorrow." 
-      }         
+      },
+      {
+        "date":"June 21 2022",
+        "Humidifier": "On",
+        "Skin_condition": "Fair",
+        "Eyes_condition": "Fair",
+        "Feeling": "My eyes are not itchy in the morning because I have turned on a humidifier in my small room. Even though the temperature is high, I still feel cold. My body temperature is lower than others, I know..." 
+      }          
     ]
