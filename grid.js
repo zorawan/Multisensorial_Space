@@ -60,7 +60,7 @@ function showContent(array) {
 		grid.append(container);
 	}
 
-	slideIndex = array.length;
+	gridIndex = array.length;
 	showSlides(gridIndex);
 }
 

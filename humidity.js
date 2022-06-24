@@ -155,6 +155,16 @@ fetch(url)
 			});
 
 		var svg = d3
+			.select("#currentLocation")
+			.append("text")
+			.data(data)
+			.text(function (d) {
+				const location = data[data.length - 1];
+				const lasteDateLocation = location.city;
+				return lasteDateLocation;
+			});
+
+		var svg = d3
 			.select("#tempN")
 			.append("text")
 			.data(data)
