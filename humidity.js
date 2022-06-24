@@ -87,7 +87,7 @@ fetch(url)
 			"source_img/ic_4.svg",
 			"source_img/ic_5.svg",
 		];
-		var myColor = d3.scaleLinear().range([0, 4]).domain([0, 100]);
+		var myColor = d3.scaleLinear().range([0, 5]).domain([0, 100]);
 		// var myColor = d3.scaleLinear().range(["white", "#4CFF69"]).domain([0, 100]);
 		console.log(myColor);
 		console.log(data);

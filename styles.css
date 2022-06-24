@@ -22,17 +22,19 @@ p {
 }
 .diary {
 	text-align: left;
-	margin: 0px 60px 30px 30px;
-	font-size: 1.3em;
+	margin: 0px 40px 30px 20px;
+	font-size: 1em;
 	font-weight: 200;
 	line-height: 2em;
 }
 .lable {
 	font-weight: 600;
+	font-size: 0.8em;
+	line-height: 3em;
 }
 #day {
-	font-size: 1.6em;
-	font-weight: 100;
+	font-size: 1em;
+	font-weight: 400;
 	line-height: 2em;
 	padding-bottom: 1em;
 }
@@ -111,11 +113,17 @@ p {
 	flex-direction: row;
 }
 img {
-	vertical-align: middle;
+	vertical-align: left;
 }
 .skin_img {
 	margin-left: 50px;
 	width: 400px;
+	background: url(img/no_image.JPG) no-repeat scroll 0 0;
+}
+.skin2_img {
+	margin: 0 0 30px 50px;
+	height: 300px;
+
 	background: url(img/no_image.JPG) no-repeat scroll 0 0;
 }
 /* Slideshow container */
@@ -257,4 +265,21 @@ iframe{
   #legend-text{
 	padding-right: 12px;
 	padding-left: 46px;
+  }
+  #grid{
+	display: flex;
+	flex-wrap: wrap;
+	padding: 0 4px;
+  }
+  .skin2_img{
+	align-items: left;
+  }
+  .my-grid-container{
+	flex-direction: row;
+	display: flex;
+	align-items: left;
+  }
+  #Feeling, #Skin, #Eyes, #Humidifier{
+	font-size: 1em;
+	line-height: 1.2em;
   }

@@ -439,5 +439,26 @@
         "Skin_condition": "Fair",
         "Eyes_condition": "Fair",
         "Feeling": "My eyes are not itchy in the morning because I have turned on a humidifier in my small room. Even though the temperature is high, I still feel cold. My body temperature is lower than others, I know..." 
-      }          
+      },
+      {
+        "date":"June 22 2022",
+        "Humidifier": "On",
+        "Skin_condition": "Fair",
+        "Eyes_condition": "Fair",
+        "Feeling": "It has been hot since afternoon yesterday. I started to feel hot and sultry in my rooms. However, it does not help with my skin or eye conditions. Even though my eyes are not itchy as a couple of days ago, I still can feel the tension and uncomfortable." 
+      },
+      {
+        "date":"June 23 2022",
+        "Humidifier": "On",
+        "Skin_condition": "A little bit dry",
+        "Eyes_condition": "Bad",
+        "Feeling": "My eyes got itchy and in pain. It might be the side effect of acne treatment which contains Benzoyl Peroxide." 
+      },
+      {
+        "date":"June 24 2022",
+        "Humidifier": "Off",
+        "Skin_condition": "Fair",
+        "Eyes_condition": "Bad",
+        "Feeling": "I have tears in my eyes these days. I don't feel shape pain in my eyes, but it is still in an uncomfortable status. Before this project, I wasn't aware of this unhealthy condition, but now it has become a sight that tells me I am not fit in this place." 
+      }                
     ]
