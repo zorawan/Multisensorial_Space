@@ -22,10 +22,11 @@ p {
 }
 .diary {
 	text-align: left;
-	margin: 0px 40px 30px 20px;
+	margin: 1em;
 	font-size: 1em;
 	font-weight: 200;
 	line-height: 2em;
+	flex-grow:2;
 }
 .lable {
 	font-weight: 600;
@@ -115,17 +116,7 @@ p {
 img {
 	vertical-align: left;
 }
-.skin_img {
-	margin-left: 50px;
-	width: 400px;
-	background: url(img/no_image.JPG) no-repeat scroll 0 0;
-}
-.skin2_img {
-	margin: 0 0 30px 50px;
-	height: 300px;
 
-	background: url(img/no_image.JPG) no-repeat scroll 0 0;
-}
 /* Slideshow container */
 .slideshow-container {
 	max-width: 1200px;
@@ -270,14 +261,35 @@ iframe{
 	display: flex;
 	flex-wrap: wrap;
 	padding: 0 4px;
+
   }
+
+  /* .skin_img {
+	margin-left: 50px;
+	background: url(img/no_image.JPG) no-repeat scroll 0 0;
+} */
+/* .skin2_img {
+	margin: 0 0 30px 50px;
+	height: 300px;
+
+	background: url(img/no_image.JPG) no-repeat scroll 0 0;
+} */
   .skin2_img{
-	align-items: left;
+	background: url(img/no_image.JPG) no-repeat scroll 0 0;
+	background-size: 300px 300px;
+	height: 300px;
+	flex-basis: 300px;
+	flex-shrink:0;
+	width:300px;
+	object-fit: cover;
+	object-position: 100% 0;
+	margin:1em;
+
   }
   .my-grid-container{
 	flex-direction: row;
 	display: flex;
-	align-items: left;
+	justify-content: flex-start;
   }
   #Feeling, #Skin, #Eyes, #Humidifier{
 	font-size: 1em;
