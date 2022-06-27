@@ -460,5 +460,26 @@
         "Skin_condition": "Fair",
         "Eyes_condition": "Bad",
         "Feeling": "I have tears in my eyes these days. I don't feel shape pain in my eyes, but it is still in an uncomfortable status. Before this project, I wasn't aware of this unhealthy condition, but now it has become a sight that tells me I am not fit in this place." 
+      },
+      {
+        "date":"June 25 2022",
+        "Humidifier": "Off",
+        "Skin_condition": "Fair",
+        "Eyes_condition": "Fair",
+        "Feeling": "I went to Capitola, where the weather is nice. The temperature is high, but I feel cold when the wind blows." 
+      },
+      {
+        "date":"June 26 2022",
+        "Humidifier": "Off",
+        "Skin_condition": "Fair",
+        "Eyes_condition": "Good",
+        "Feeling": "It's a nice day today. I don't feel cold when I wake up, which is rare. It happened less than 5% during the whole year. And it is not too hot at noon. Not sure if it's because of my physical condition or the perfect weather." 
+      },
+      {
+        "date":"June 27 2022",
+        "Humidifier": "Off",
+        "Skin_condition": "Fair",
+        "Eyes_condition": "Good",
+        "Feeling": "The excellent weather condition continues. Lucky, I will feel comfy as same as yesterday." 
       }                
     ]
