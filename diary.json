@@ -481,5 +481,12 @@
         "Skin_condition": "Fair",
         "Eyes_condition": "Good",
         "Feeling": "The excellent weather condition continues. Lucky, I will feel comfy as same as yesterday." 
-      }                
+      },
+      {
+        "date":"June 28 2022",
+        "Humidifier": "Off",
+        "Skin_condition": "Not too bad",
+        "Eyes_condition": "Bad",
+        "Feeling": "I started to feel the tension on my skin cause of dryness. I used the same acne treatment, and it causes the dry eye again... I will be careful next time I apply it to my face." 
+      }                  
     ]
