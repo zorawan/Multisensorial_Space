@@ -488,5 +488,12 @@
         "Skin_condition": "Not too bad",
         "Eyes_condition": "Bad",
         "Feeling": "I started to feel the tension on my skin cause of dryness. I used the same acne treatment, and it causes the dry eye again... I will be careful next time I apply it to my face." 
-      }                  
+      },
+      {
+        "date":"June 29 2022",
+        "Humidifier": "On",
+        "Skin_condition": "No good",
+        "Eyes_condition": "Fair",
+        "Feeling": "I notice the UV index is low today because I need to apply sunscreen for Lilo. I became aware of more changes in Lilo's skin instead of mine. Her skin also has many problems, which is unusual for a 4-year-old." 
+      }                 
     ]
