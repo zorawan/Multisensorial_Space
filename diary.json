@@ -492,8 +492,15 @@
       {
         "date":"June 29 2022",
         "Humidifier": "On",
-        "Skin_condition": "No good",
+        "Skin_condition": "Not good",
         "Eyes_condition": "Fair",
         "Feeling": "I notice the UV index is low today because I need to apply sunscreen for Lilo. I became aware of more changes in Lilo's skin instead of mine. Her skin also has many problems, which is unusual for a 4-year-old." 
+      },
+      {
+        "date":"June 30 2022",
+        "Humidifier": "On",
+        "Skin_condition": "Fair",
+        "Eyes_condition": "Fair",
+        "Feeling": "It gets cold today; at the same time, I feel more humid indoors. I have my humidifier on, which I don't know how to turn off; I can only wait for the water to run out..." 
       }                 
     ]
