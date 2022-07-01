@@ -502,5 +502,12 @@
         "Skin_condition": "Fair",
         "Eyes_condition": "Fair",
         "Feeling": "It gets cold today; at the same time, I feel more humid indoors. I have my humidifier on, which I don't know how to turn off; I can only wait for the water to run out..." 
+      },
+      {
+        "date":"July 1 2022",
+        "Humidifier": "Off",
+        "Skin_condition": "Fair",
+        "Eyes_condition": "Good",
+        "Feeling": "Today is a foggy day. I can't bear the coldness, but I feel guilty about turning on the heater in the middle of the summer." 
       }                 
     ]
