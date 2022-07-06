@@ -509,5 +509,33 @@
         "Skin_condition": "Fair",
         "Eyes_condition": "Good",
         "Feeling": "Today is a foggy day. I can't bear the coldness, but I feel guilty about turning on the heater in the middle of the summer." 
-      }                 
+      },
+      {
+        "date":"July 2 2022",
+        "Humidifier": "Off",
+        "Skin_condition": "Fair",
+        "Eyes_condition": "Fair",
+        "Feeling": "I turned on the heater during the night and went outside for a picnic during the daytime. The wind speed was about 11-16 mph which consider fast and uncomfortable to enjoy a picnic in a park." 
+      },
+      {
+        "date":"July 3 2022",
+        "Humidifier": "On",
+        "Skin_condition": "Fair",
+        "Eyes_condition": "Bad",
+        "Feeling": "I am planning to spend all day at home. With the header turned on, it might be too dry to enjoy watching TV during the afternoon. So I will turn on the humidifier too, and see if it helps." 
+      },
+      {
+        "date":"July 4 2022",
+        "Humidifier": "On",
+        "Skin_condition": "Good",
+        "Eyes_condition": "Fair",
+        "Feeling": "Perfect temperature outdoor. We when kayaking in Half moon bay. Surprisingly it wasn't windy in the bay, but the scattered light from the cloudy day tans my skin." 
+      },
+      {
+        "date":"July 5 2022",
+        "Humidifier": "On",
+        "Skin_condition": "Good",
+        "Eyes_condition": "OK",
+        "Feeling": "My skin gets better than a couple of days ago. I. noticed my water consumption might be low, so I need to drink more." 
+      }                    
     ]
