@@ -537,5 +537,68 @@
         "Skin_condition": "Good",
         "Eyes_condition": "OK",
         "Feeling": "My skin gets better than a couple of days ago. I. noticed my water consumption might be low, so I need to drink more." 
-      }                    
+      },
+      {
+        "date":"July 6 2022",
+        "Humidifier": "Off (Hotel AC On)",
+        "Skin_condition": "Good",
+        "Eyes_condition": "OK",
+        "Feeling": "Traveling to Seattle where supposed to be wet with a lot of rain. The temperature is higher than in Oakland." 
+      },
+      {
+        "date":"July 7 2022",
+        "Humidifier": "Off (Hotel AC On)",
+        "Skin_condition": "Good",
+        "Eyes_condition": "Good",
+        "Feeling": "Stayed in Bellevue, WA, for 7 days. The weather was hot during the week, which isn't typical, according to locals. It was sunny during the daytime but still cold at night." 
+      },
+      {
+        "date":"July 8 2022",
+        "Humidifier": "Off (Hotel AC On)",
+        "Skin_condition": "Good",
+        "Eyes_condition": "Good",
+        "Feeling": "Stayed in a hotel for most of the hours, which was comfortable with the AC turned on. Slightly cold during the night, so I turn off the AC for a couple of hours." 
+      },
+      {
+        "date":"July 9 2022",
+        "Humidifier": "Off (Hotel AC On)",
+        "Skin_condition": "Great",
+        "Eyes_condition": "Great",
+        "Feeling": "I went to Redmond, my friend's house, for afternoon tea and dinner. We stayed in the backyard for the whole afternoon in perfect weather conditions. People from California and Vancouver were all enjoying the nice weather." 
+      },
+      {
+        "date":"July 10 2022",
+        "Humidifier": "Off (Hotel AC On)",
+        "Skin_condition": "Great",
+        "Eyes_condition": "Great",
+        "Feeling": "When the car traveled around Bellevue, I saw the trees with many kinds of flowers blowing. The summer here can be a heaven for people to enjoy. We have a good time at Doupan's friend's place." 
+      },
+      {
+        "date":"July 11 2022",
+        "Humidifier": "Off (Hotel AC On)",
+        "Skin_condition": "Great",
+        "Eyes_condition": "Great",
+        "Feeling": "I didn't check my skin condition that often. I didn't seem aware of any changes after I got here. I applied sunscreens when I was walking outside." 
+      },
+      {
+        "date":"July 12 2022",
+        "Humidifier": "Off (Hotel AC On)",
+        "Skin_condition": "Great",
+        "Eyes_condition": "Great",
+        "Feeling": "I swam with Lilo almost every morning in the hotel. The indoor pool provided shade for sun protection, and the temperature was nice and warm. The water was heated so that Lilo could stay longer in the water." 
+      },
+      {
+        "date":"July 13 2022",
+        "Humidifier": "Off (Hotel AC On)",
+        "Skin_condition": "Great",
+        "Eyes_condition": "Great",
+        "Feeling": "I think my skin is in good condition because I did not become aware of any uncomfortable feelings. Also, no symptoms from my eyes show the humidity level is better than in Oakland." 
+      },
+      {
+        "date":"July 14 2022",
+        "Humidifier": "Off",
+        "Skin_condition": "Great",
+        "Eyes_condition": "Great",
+        "Feeling": "I immediately feel the dryness after I finish my morning routine. I got dry eyes, so I used teardrop to relieve the itchiness." 
+      }
     ]
