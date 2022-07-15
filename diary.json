@@ -598,7 +598,14 @@
         "date":"July 14 2022",
         "Humidifier": "Off",
         "Skin_condition": "Great",
-        "Eyes_condition": "Great",
+        "Eyes_condition": "Fair",
         "Feeling": "I immediately feel the dryness after I finish my morning routine. I got dry eyes, so I used teardrop to relieve the itchiness." 
+      },
+      {
+        "date":"July 15 2022",
+        "Humidifier": "Off",
+        "Skin_condition": "Great",
+        "Eyes_condition": "Bad",
+        "Feeling": "My eyes are super dry today. It reminds me of the first time I learned that dryness could cause teardrops. I was shocked because I did not know what side effects the dryness would cause. Living and growing up in Taiwan really limited my understanding of many things. " 
       }
     ]
