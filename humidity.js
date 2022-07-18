@@ -122,23 +122,29 @@ fetch(url)
 
 				tooltip
 					.html(
-						"Date: " +
+						"<span id = 'tooltipDate'>" +
 							new Date(d.date).toDateString() +
+							"</span>" +
 							"<br>" +
-							"Location: " +
+							"<span class = 'tooltipText'>Location:  </span>" +
 							d.city +
 							"<br>" +
-							"Humidity: " +
+							"<span class = 'tooltipText'>Temperature:  </span>" +
+							(d.temp - 273.15).toFixed(2) +
+							" °C" +
+							"<br>" +
+							"<span class = 'tooltipText'> Humidity:  </span>" +
 							d.humidity.toFixed(2) +
 							" %" +
 							"<br>" +
-							"Dew Point: " +
+							"<span class = 'tooltipText'> Dew Point:  </span>" +
 							(d.dew_point - 273.15).toFixed(2) +
 							" °C"
 					)
+
 					.style("left", i.pageX - 50 + "px")
 					.style("top", i.pageY - 100 + "px")
-					.style("line-height", "1.5em")
+					.style("line-height", "1.8em")
 					.style("text-align", "left");
 			})
 			.on("mouseout", function (i, d) {

@@ -299,3 +299,12 @@ iframe{
 	margin-top: 0;
 	margin-bottom:40px;
   }
+  #tooltipDate{
+	text-align: left;
+	font-size: 1.4em;
+	font-weight: 100;
+	line-height: 2em;
+  }
+  .tooltipText{
+	opacity: .6;
+  }
