@@ -606,6 +606,27 @@
         "Humidifier": "Off",
         "Skin_condition": "Great",
         "Eyes_condition": "Bad",
-        "Feeling": "My eyes are super dry today. It reminds me of the first time I learned that dryness could cause teardrops. I was shocked because I did not know what side effects the dryness would cause. Living and growing up in Taiwan really limited my understanding of many things. " 
+        "Feeling": "My eyes are super dry today. It reminds me of the first time I learned that dryness could cause teardrops. I was shocked because I did not know what side effects the dryness would cause. Living and growing up in Taiwan really limited my understanding of many things." 
+      },
+            {
+        "date":"July 16 2022",
+        "Humidifier": "Off (Air purifier turned on)",
+        "Skin_condition": "Great",
+        "Eyes_condition": "Fair",
+        "Feeling": "My eyes are still dry during day time. It is chill in the morning, so I am hesitant to turn on the humidifier. The afternoon was warm, which made me feel better." 
+      },
+      {
+        "date":"July 17 2022",
+        "Humidifier": "Off (Air purifier turned on)",
+        "Skin_condition": "Great",
+        "Eyes_condition": "Good",
+        "Feeling": "I woke up with sore pain in my back because of the massage. I did not become aware of the dryness on my eyes and skin today. It might be a good sign that the humidity condition is improving." 
+      },
+      {
+        "date":"July 18 2022",
+        "Humidifier": "Off (Air purifier turned on)",
+        "Skin_condition": "Great",
+        "Eyes_condition": "Good",
+        "Feeling": "Forgot the mention I turned on the air purifier for 3 days because the dust was flying around while I was doing the house clearing. It might support my sensitive skin and nose a little bit." 
       }
     ]

@@ -61,7 +61,7 @@ function showContent(array) {
 	}
 
 	gridIndex = array.length;
-	showSlides(gridIndex);
+	// showSlides(gridIndex);
 }
 
 function readTextFile(file, callback) {
