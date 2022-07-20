@@ -635,5 +635,12 @@
         "Skin_condition": "Great",
         "Eyes_condition": "Fair",
         "Feeling": "I checked the humidity numbers, which are relatively high these days. But I didn't feel the same while in Taiwan or Hawaii. It really proves how the dew point can change our sense and feeling of the humidity." 
+      },
+      {
+        "date":"July 19 2022",
+        "Humidifier": "On",
+        "Skin_condition": "Great",
+        "Eyes_condition": "Fair",
+        "Feeling": "It is fine with my skin condition, and my eyes are the same as yesterday, a little bit dry, but it's acceptable." 
       }
     ]

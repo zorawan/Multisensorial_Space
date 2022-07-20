@@ -275,21 +275,19 @@ iframe{
 	background: url(img/no_image.JPG) no-repeat scroll 0 0;
 } */
   .skin2_img{
-	background: url(img/no_image.JPG) no-repeat scroll 0 0;
-	background-size: 300px 300px;
-	height: 300px;
-	flex-basis: 300px;
-	flex-shrink:0;
-	width:300px;
 	object-fit: cover;
 	object-position: 100% 0;
 	margin:1em;
-
+	width: 100%;
   }
   .my-grid-container{
 	flex-direction: row;
 	display: flex;
 	justify-content: flex-start;
+	width: 33%;
+	height:365px;
+	position: relative;
+	/* border-bottom: 1px dotted black; */
   }
   #Feeling, #Skin, #Eyes, #Humidifier{
 	font-size: 1em;
@@ -307,4 +305,30 @@ iframe{
   }
   .tooltipText{
 	opacity: .6;
+  }
+
+
+  .my-grid-container .diary {
+	visibility: hidden;
+	width: 240px;
+	height:100%;
+	background-color:rgba(60, 66, 82, 0.8);
+	color: #fff;
+	text-align: left;
+	/* border-radius: 6px; */
+	padding: 40px 20px 0 20px;
+	position: fixed;
+	z-index: 1;
+	bottom: 0px;
+	right: 0px;
+	/* margin-left: -60px; */
+	opacity: 0;
+	transition: opacity 0.3s;
+  }
+  
+
+  
+  .my-grid-container:hover .diary {
+	visibility: visible;
+	opacity: 1;
   }

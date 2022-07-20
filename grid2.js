@@ -8,24 +8,27 @@ function showContent(array) {
 
 		var date = new Date(data.date);
 		var imageName = date.getMonth() + 1 + "_" + date.getDate();
-		var container = document.createElement("div");
-		container.className = "myGrid";
+		// var container = document.createElement("div");
+		// container.className = "myGrid";
 		var gridContainer = document.createElement("div");
 		gridContainer.className = "my-grid-container";
 
 		var image = document.createElement("img");
 		image.src = "img/" + imageName + ".JPG";
 		image.className = "skin2_img";
+		image.title = "date: " + imageName;
+
 		gridContainer.append(image);
 
 		//show text
-		var text = document.createElement("div");
+		var tooltip = document.createElement("span");
 		var Humidifier = data.Humidifier;
 		var Skin = data.Skin_condition;
 		var Eyes = data.Eyes_condition;
 		var Feeling = data.Feeling;
+		tooltip.className = "diary";
 
-		text.innerHTML =
+		tooltip.innerHTML =
 			"<div id=day>" +
 			date.toDateString() +
 			"</div>" +
@@ -53,11 +56,10 @@ function showContent(array) {
 			"<div id=Feeling>" +
 			Feeling +
 			"</div>";
-		text.className = "diary";
-		gridContainer.append(text);
 
-		container.append(gridContainer);
-		grid.append(container);
+		gridContainer.append(tooltip);
+
+		grid.append(gridContainer);
 	}
 
 	gridIndex = array.length;
