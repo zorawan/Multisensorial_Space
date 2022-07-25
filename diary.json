@@ -637,10 +637,44 @@
         "Feeling": "I checked the humidity numbers, which are relatively high these days. But I didn't feel the same while in Taiwan or Hawaii. It really proves how the dew point can change our sense and feeling of the humidity." 
       },
       {
-        "date":"July 19 2022",
+        "date":"July 20 2022",
         "Humidifier": "On",
         "Skin_condition": "Great",
         "Eyes_condition": "Fair",
         "Feeling": "It is fine with my skin condition, and my eyes are the same as yesterday, a little bit dry, but it's acceptable." 
-      }
+      },
+      {
+        "date":"July 21 2022",
+        "Humidifier": "Off",
+        "Skin_condition": "Great",
+        "Eyes_condition": "Fair",
+        "Feeling": "We went camping in Stanislaus National Forest, where we saw two wildfires over 3 days. The air is dry. I can feel the difference immediately after we reach the forest. My lip got dry, and I drank more water than usual. Lilo's got a bug bite during midnight on her eye. Her eye is puffed the whole week." 
+      },
+      {
+        "date":"July 22 2022",
+        "Humidifier": "Off",
+        "Skin_condition": "Good",
+        "Eyes_condition": "Fair",
+        "Feeling": "I forgot to take the picture because I enjoyed the water in the lake. We swam, kayaked, and SUP for the whole morning. The picture shows the night sky from the forest. (Photo took by iPhone)" 
+      },
+      {
+        "date":"July 23 2022",
+        "Humidifier": "Off",
+        "Skin_condition": "Good",
+        "Eyes_condition": "Fair",
+        "Feeling": "We saw the second wildfire in the afternoon, and Lilo didn't want to stay anymore. So we decide to go back home. The temperature is cooler in the bay area." 
+      },
+      {
+        "date":"July 24 2022",
+        "Humidifier": "Off",
+        "Skin_condition": "Fair",
+        "Eyes_condition": "Fair",
+        "Feeling": "My skin is tanned." 
+      },
+      {
+        "date":"July 25 2022",
+        "Humidifier": "Off",
+        "Skin_condition": "Fair",
+        "Eyes_condition": "Fair",
+        "Feeling": " I wear long shelve after back home. It is unusual in this season for most people in the States. But it's common in San Francisco."}
     ]
