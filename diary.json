@@ -674,7 +674,13 @@
       {
         "date":"July 25 2022",
         "Humidifier": "Off",
-        "Skin_condition": "Fair",
+        "Skin_condition": "Good",
         "Eyes_condition": "Fair",
-        "Feeling": " I wear long shelve after back home. It is unusual in this season for most people in the States. But it's common in San Francisco."}
+        "Feeling": "I wear long shelve after back home. It is unusual in this season for most people in the States. But it's common in San Francisco."},
+        {
+          "date":"July 26 2022",
+          "Humidifier": "Off",
+          "Skin_condition": "Good",
+          "Eyes_condition": "Fair",
+          "Feeling": "My skin condition is stable these days. My eyes are a little bit dry in the morning."}
     ]
