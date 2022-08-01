@@ -690,5 +690,40 @@
           "Skin_condition": "Fair",
           "Eyes_condition": "Fair",
           "Feeling": "My hands get dryer today. Not sure if it is because of the air purifier. The air quality is getting worse these days because of a nearby wildfire."
+        },
+        {
+          "date":"July 28 2022",
+          "Humidifier": "Off",
+          "Skin_condition": "Fair",
+          "Eyes_condition": "Fair",
+          "Feeling": "I was busy all day without thinking about my physical condition. And I watched k-drama all the time during my free time. It didn't see any hurt in my eyes. So I think I was okay."
+        },
+        {
+          "date":"July 29 2022",
+          "Humidifier": "Off",
+          "Skin_condition": "Good",
+          "Eyes_condition": "Good",
+          "Feeling": "I had a great sleep yesterday. Lilo didn't cry. My eyes are a little bit dry in the morning as usual. Nothing special to be reported."
+        },
+        {
+          "date":"July 30 2022",
+          "Humidifier": "Off",
+          "Skin_condition": "Good",
+          "Eyes_condition": "Good",
+          "Feeling": "We went to Cupertino. The temperature was high. Overall, it was comfy to wear short sleeves."
+        },
+        {
+          "date":"July 31 2022",
+          "Humidifier": "Off",
+          "Skin_condition": "Good",
+          "Eyes_condition": "Good",
+          "Feeling": "We went to San Carlos. The wind blew faster with a similar temperature yesterday, and the humidity was higher. It was a relaxing day."
+        },
+        {
+          "date":"August 1 2022",
+          "Humidifier": "Off",
+          "Skin_condition": "Good",
+          "Eyes_condition": "Good",
+          "Feeling": "I wore more when sleeping, which made me feel better in the early morning. Will try to keep this habit for the following days."
         }
     ]
