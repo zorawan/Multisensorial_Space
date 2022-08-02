@@ -723,7 +723,14 @@
           "date":"August 1 2022",
           "Humidifier": "Off",
           "Skin_condition": "Good",
-          "Eyes_condition": "Good",
-          "Feeling": "I wore more when sleeping, which made me feel better in the early morning. Will try to keep this habit for the following days."
+          "Eyes_condition": "Fair",
+          "Feeling": "I wore more when sleeping, which made me feel better in the early morning. Will try to keep this habit for the following days"
+        },
+        {
+          "date":"August 2 2022",
+          "Humidifier": "Off",
+          "Skin_condition": "Good",
+          "Eyes_condition": "Bad",
+          "Feeling": "My eyes were super dry started yesterday night. The uncomfortable feeling continues. Teardrop used!"
         }
     ]
