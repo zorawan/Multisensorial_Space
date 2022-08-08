@@ -732,5 +732,47 @@
           "Skin_condition": "Good",
           "Eyes_condition": "Bad",
           "Feeling": "My eyes were super dry started yesterday night. The uncomfortable feeling continues. Teardrop used!"
+        },
+        {
+          "date":"August 3 2022",
+          "Humidifier": "Off",
+          "Skin_condition": "Fair",
+          "Eyes_condition": "Bad",
+          "Feeling": "In the same situation, my eyes are dry. I used teardrop."
+        },
+        {
+          "date":"August 4 2022",
+          "Humidifier": "Off",
+          "Skin_condition": "Fair",
+          "Eyes_condition": "Bad",
+          "Feeling": "Clean up the house and move plants to a friend's place. Prepare to move to New York."
+        },
+        {
+          "date":"August 5 2022",
+          "Humidifier": "Off",
+          "Skin_condition": "Fair",
+          "Eyes_condition": "Bad",
+          "Feeling": "We took a red-eye flight, so I felt like a zombie the whole day. I got a headache and felt super uncomfortable without proper sleeping."
+        },
+        {
+          "date":"August 6 2022",
+          "Humidifier": "Off",
+          "Skin_condition": "Good",
+          "Eyes_condition": "Fair",
+          "Feeling": "On the second day in New York, the humidity made my skin healthy but not breathing~ The heat wave in the noon made me feel like Taiwan."
+        },
+        {
+          "date":"August 7 2022",
+          "Humidifier": "Off",
+          "Skin_condition": "Good",
+          "Eyes_condition": "Good",
+          "Feeling": "I woke up at 4am to watch a live concert, which changed my sleeping habit. After 3 days in New York, I can see my skin get more moisturized, and I do not experience any pain in my eyes."
+        },
+        {
+          "date":"August 8 2022",
+          "Humidifier": "Off",
+          "Skin_condition": "Good",
+          "Eyes_condition": "Good",
+          "Feeling": "Still hot in the morning. Lilo can go to school in time. Working indoors with air conditioning, I hope there won't be any side effects."
         }
     ]
