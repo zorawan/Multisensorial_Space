@@ -788,5 +788,12 @@
           "Skin_condition": "Good",
           "Eyes_condition": "Bad",
           "Feeling": "Walking outdoor in the morning. My teardrops followed me all the way to Lilo's school, and they continued to come out for a half hour."
+        },
+        {
+          "date":"August 11 2022",
+          "Humidifier": "Off (Air conditioning turned on)",
+          "Skin_condition": "Good",
+          "Eyes_condition": "Bad",
+          "Feeling": "It's raining today. We have a perfect indoor temperature. I hope it's not too humid outside this afternoon."
         }
     ]
