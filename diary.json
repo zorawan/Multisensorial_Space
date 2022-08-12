@@ -795,5 +795,12 @@
           "Skin_condition": "Good",
           "Eyes_condition": "Bad",
           "Feeling": "It's raining today. We have a perfect indoor temperature. I hope it's not too humid outside this afternoon."
+        },
+        {
+          "date":"August 12 2022",
+          "Humidifier": "Off (Air conditioning turned on)",
+          "Skin_condition": "Good",
+          "Eyes_condition": "Bad",
+          "Feeling": "I don't feel dryness or itchy on my skin for a long time. The only concern is my sensitive eyes now."
         }
     ]
