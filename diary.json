@@ -802,5 +802,34 @@
           "Skin_condition": "Good",
           "Eyes_condition": "Bad",
           "Feeling": "I don't feel dryness or itchy on my skin for a long time. The only concern is my sensitive eyes now."
+        },
+        {
+          "date":"August 13 2022",
+          "Humidifier": "Off (Air conditioning turned on)",
+          "Skin_condition": "fair",
+          "Eyes_condition": "Bad",
+          "Feeling": "My eyes got worse because of the acne treatment which I applied around my eyes."
+        },
+        {
+          "date":"August 14 2022",
+          "Humidifier": "Off (Air conditioning turned on)",
+          "Skin_condition": "The worst",
+          "Eyes_condition": "Bad",
+          "Feeling": "My skin starts peeling. It's uncomfortable and annoying."
+        },
+        {
+          "date":"August 15 2022",
+          "Humidifier": "Off (Air conditioning turned on)",
+          "Skin_condition": "The worst",
+          "Eyes_condition": "The worst",
+          "Feeling": "The peeling continued, and my lips cracked. I applied some lip sleeping mask somehow, it didn't work."
+        },
+        {
+          "date":"August 16 2022",
+          "Humidifier": "Off (Air conditioning turned on)",
+          "Skin_condition": "The worst",
+          "Eyes_condition": "Bad",
+          "Feeling": "The peeling continued with acne on my face made me look horrible!! I got some scratches on my hand when assembling storage racks from Ikea."
         }
+        
     ]
