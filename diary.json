@@ -837,6 +837,13 @@
           "Skin_condition": "The worst",
           "Eyes_condition": "Fair",
           "Feeling": "The peeling is annoying. Living in an indoor conditioning environment is comfy but not for the skin. My skin is sensitive and finicky. Maybe I need to use medication treatment instead."
+        },
+        {
+          "date":"August 18 2022",
+          "Humidifier": "Off (Air conditioning turned on)",
+          "Skin_condition": "Bad",
+          "Eyes_condition": "Fair",
+          "Feeling": "I swam in the morning, so I feel a little dry on my body skin. The peeling on my face is getting better. I change the lotion, which might help as well. Not sure..."
         }
         
     ]
