@@ -844,6 +844,34 @@
           "Skin_condition": "Bad",
           "Eyes_condition": "Fair",
           "Feeling": "I swam in the morning, so I feel a little dry on my body skin. The peeling on my face is getting better. I change the lotion, which might help as well. Not sure..."
+        },
+        {
+          "date":"August 19 2022",
+          "Humidifier": "Off (Air conditioning turned on)",
+          "Skin_condition": "Good",
+          "Eyes_condition": "Fair",
+          "Feeling": "I got blisters on my feet because of the new shoes. And the sun lighting through the windshield while I took a uber home made me uncomfortable."
+        },
+        {
+          "date":"August 20 2022",
+          "Humidifier": "Off (Air conditioning turned on)",
+          "Skin_condition": "Good",
+          "Eyes_condition": "OK",
+          "Feeling": "I slept all day but took a walk in the afternoon. Lilo followed us and walked for about 7.5km. The weather is humid but in a comfortable way."
+        },
+        {
+          "date":"August 21 2022",
+          "Humidifier": "Off (Air conditioning turned on)",
+          "Skin_condition": "Good",
+          "Eyes_condition": "Fair",
+          "Feeling": "Walked about 20 mins to have a great brunch! The weather is the same as yesterday. Have teardrop came out on the way to the restaurant."
+        },
+        {
+          "date":"August 22 2022",
+          "Humidifier": "Off (Air conditioning turned on)",
+          "Skin_condition": "Fair",
+          "Eyes_condition": "Fair",
+          "Feeling": "I swam and felt a little bit dry on my skin afterward."
         }
         
     ]
