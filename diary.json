@@ -872,6 +872,13 @@
           "Skin_condition": "Fair",
           "Eyes_condition": "Fair",
           "Feeling": "I swam and felt a little bit dry on my skin afterward."
+        },
+        {
+          "date":"August 23 2022",
+          "Humidifier": "Off (Air conditioning turned on)",
+          "Skin_condition": "Fair",
+          "Eyes_condition": "Fair",
+          "Feeling": "Somehow, my face is a little bit itchy. My body skin is dry but at an acceptable level."
         }
         
     ]
