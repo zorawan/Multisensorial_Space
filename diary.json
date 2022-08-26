@@ -847,38 +847,59 @@
         },
         {
           "date":"August 19 2022",
-          "Humidifier": "Off (Air conditioning turned on)",
+          "Humidifier": "Off",
           "Skin_condition": "Good",
           "Eyes_condition": "Fair",
           "Feeling": "I got blisters on my feet because of the new shoes. And the sun lighting through the windshield while I took a uber home made me uncomfortable."
         },
         {
           "date":"August 20 2022",
-          "Humidifier": "Off (Air conditioning turned on)",
+          "Humidifier": "Off",
           "Skin_condition": "Good",
           "Eyes_condition": "OK",
           "Feeling": "I slept all day but took a walk in the afternoon. Lilo followed us and walked for about 7.5km. The weather is humid but in a comfortable way."
         },
         {
           "date":"August 21 2022",
-          "Humidifier": "Off (Air conditioning turned on)",
+          "Humidifier": "Off",
           "Skin_condition": "Good",
           "Eyes_condition": "Fair",
           "Feeling": "Walked about 20 mins to have a great brunch! The weather is the same as yesterday. Have teardrop came out on the way to the restaurant."
         },
         {
           "date":"August 22 2022",
-          "Humidifier": "Off (Air conditioning turned on)",
+          "Humidifier": "Off",
           "Skin_condition": "Fair",
           "Eyes_condition": "Fair",
           "Feeling": "I swam and felt a little bit dry on my skin afterward."
         },
         {
           "date":"August 23 2022",
-          "Humidifier": "Off (Air conditioning turned on)",
+          "Humidifier": "Off",
           "Skin_condition": "Fair",
           "Eyes_condition": "Fair",
           "Feeling": "Somehow, my face is a little bit itchy. My body skin is dry but at an acceptable level."
+        },
+        {
+          "date":"August 24 2022",
+          "Humidifier": "Off",
+          "Skin_condition": "Fair",
+          "Eyes_condition": "Fine",
+          "Feeling": "It is a little bit dry when the air conditioning turn on during the night. I will try turn on the humidifier tonight to see if it helps."
+        },
+        {
+          "date":"August 25 2022",
+          "Humidifier": "Off (Air conditioning turned on)",
+          "Skin_condition": "Fine",
+          "Eyes_condition": "Fine",
+          "Feeling": "I applied lotion to my legs after swimming. This is the first time I feel in need of doing so. On the other hand, I haven't used teardrops since I came to New York. Summer in New York is definitely better for my health."
+        },
+        {
+          "date":"August 26 2022",
+          "Humidifier": "On",
+          "Skin_condition": "Fine",
+          "Eyes_condition": "Fine",
+          "Feeling": "Without air conditioning, it's hot at night. And I just realized we did not turn on air conditioning most of the time."
         }
         
     ]
