@@ -900,6 +900,27 @@
           "Skin_condition": "Fine",
           "Eyes_condition": "Fine",
           "Feeling": "Without air conditioning, it's hot at night. And I just realized we did not turn on air conditioning most of the time."
+        },
+        {
+          "date":"August 27 2022",
+          "Humidifier": "On",
+          "Skin_condition": "Good",
+          "Eyes_condition": "Fine",
+          "Feeling": "I sweat while walking outside in Brooklyn. It was humid and hot. The vitamin C sunscreen is too oily for my face."
+        },
+        {
+          "date":"August 28 2022",
+          "Humidifier": "Off",
+          "Skin_condition": "Good",
+          "Eyes_condition": "Fine",
+          "Feeling": "Walking on the street with the humid wind passing through makes a great experience compared to the hot temperature underground. Still love the summer in New York so far."
+        },
+        {
+          "date":"August 29 2022",
+          "Humidifier": "Off",
+          "Skin_condition": "Good",
+          "Eyes_condition": "Fine",
+          "Feeling": "I got scalded a couple days ago, and the wound is more significant than I expected. I decide to record my other body parts to make my diary diversified."
         }
         
     ]
