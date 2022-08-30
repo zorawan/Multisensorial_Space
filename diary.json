@@ -921,6 +921,13 @@
           "Skin_condition": "Good",
           "Eyes_condition": "Fine",
           "Feeling": "I got scalded a couple days ago, and the wound is more significant than I expected. I decide to record my other body parts to make my diary diversified."
+        },
+        {
+          "date":"August 30 2022",
+          "Humidifier": "Off",
+          "Skin_condition": "Good",
+          "Eyes_condition": "Good",
+          "Feeling": "Tried a special band-aid. It functions like an acne patch; not sure if it works..."
         }
         
     ]
