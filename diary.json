@@ -928,6 +928,13 @@
           "Skin_condition": "Good",
           "Eyes_condition": "Good",
           "Feeling": "Tried a special band-aid. It functions like an acne patch; not sure if it works..."
+        },
+        {
+          "date":"September 1 2022",
+          "Humidifier": "Off",
+          "Skin_condition": "Bad",
+          "Eyes_condition": "Fine",
+          "Feeling": "Swimming with my wound is painful to feel. But it looks better after swimming. My skin got really dry without lotion."
         }
         
     ]
