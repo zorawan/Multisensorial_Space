@@ -935,6 +935,13 @@
           "Skin_condition": "Bad",
           "Eyes_condition": "Fine",
           "Feeling": "Swimming with my wound is painful to feel. But it looks better after swimming. My skin got really dry without lotion."
+        },
+        {
+          "date":"September 2 2022",
+          "Humidifier": "Off",
+          "Skin_condition": "Fine",
+          "Eyes_condition": "Bad",
+          "Feeling": "I feel the dryness in my eyes!!! The whole day!!!! Should I drink more water? I think the weather doesn't change that much. What happened to me!!!!"
         }
         
     ]
