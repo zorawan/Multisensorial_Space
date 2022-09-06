@@ -942,6 +942,34 @@
           "Skin_condition": "Fine",
           "Eyes_condition": "Bad",
           "Feeling": "I feel the dryness in my eyes!!! The whole day!!!! Should I drink more water? I think the weather doesn't change that much. What happened to me!!!!"
+        },
+        {
+          "date":"September 3 2022",
+          "Humidifier": "Off",
+          "Skin_condition": "Fine",
+          "Eyes_condition": "Fine",
+          "Feeling": "Nothing special."
+        },
+        {
+          "date":"September 4 2022",
+          "Humidifier": "Off",
+          "Skin_condition": "Fine",
+          "Eyes_condition": "Fine",
+          "Feeling": "Walked during the afternoon, which made me sweat. Menstruation made me irritable."
+        },
+        {
+          "date":"September 5 2022",
+          "Humidifier": "Off",
+          "Skin_condition": "Dry and bad",
+          "Eyes_condition": "Fine",
+          "Feeling": "A little bit hot outside, but suitable for walking. We walked for more than 10km. I can see my scar getting smaller, but without sunscreen, it gets tan."
+        },
+        {
+          "date":"September 5 2022",
+          "Humidifier": "Off",
+          "Skin_condition": "Dry",
+          "Eyes_condition": "Fine",
+          "Feeling": "My old scar is also getting tan recently. These two scars are all caused by the oven... I should really use it carefully."
         }
         
     ]
