@@ -977,6 +977,13 @@
           "Skin_condition": "Dry",
           "Eyes_condition": "Fine",
           "Feeling": "It's getting cold and windy today. The scar looks not healthy. I really need to cover it in the morning."
+        },
+        {
+          "date":"September 8 2022",
+          "Humidifier": "Off",
+          "Skin_condition": "Dry",
+          "Eyes_condition": "Fine",
+          "Feeling": "A little bit of dryness I can feel on the skin. My eyes keep the same."
         }
         
     ]
