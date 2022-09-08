@@ -965,11 +965,18 @@
           "Feeling": "A little bit hot outside, but suitable for walking. We walked for more than 10km. I can see my scar getting smaller, but without sunscreen, it gets tan."
         },
         {
-          "date":"September 5 2022",
+          "date":"September 6 2022",
           "Humidifier": "Off",
           "Skin_condition": "Dry",
           "Eyes_condition": "Fine",
           "Feeling": "My old scar is also getting tan recently. These two scars are all caused by the oven... I should really use it carefully."
+        },
+        {
+          "date":"September 7 2022",
+          "Humidifier": "Off",
+          "Skin_condition": "Dry",
+          "Eyes_condition": "Fine",
+          "Feeling": "It's getting cold and windy today. The scar looks not healthy. I really need to cover it in the morning."
         }
         
     ]
