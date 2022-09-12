@@ -984,6 +984,34 @@
           "Skin_condition": "Dry",
           "Eyes_condition": "Fine",
           "Feeling": "A little bit of dryness I can feel on the skin. My eyes keep the same."
+        },
+        {
+          "date":"September 9 2022",
+          "Humidifier": "Off",
+          "Skin_condition": "Good",
+          "Eyes_condition": "Fine",
+          "Feeling": "My nails might have the best condition these days."
+        },
+        {
+          "date":"September 10 2022",
+          "Humidifier": "On",
+          "Skin_condition": "Good",
+          "Eyes_condition": "Good",
+          "Feeling": "It was raining, and I could feel the moisture on my skin."
+        },
+        {
+          "date":"September 11 2022",
+          "Humidifier": "On",
+          "Skin_condition": "Good",
+          "Eyes_condition": "Good",
+          "Feeling": "The scar is getting smaller and better. To protect it from getting pigments, I will apply VC within days."
+        },
+        {
+          "date":"September 12 2022",
+          "Humidifier": "Off",
+          "Skin_condition": "Fine",
+          "Eyes_condition": "Good",
+          "Feeling": "This is the condition after swimming. It is a little bit dry compared to Saturday."
         }
-        
+                
     ]
