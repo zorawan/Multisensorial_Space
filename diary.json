@@ -1012,6 +1012,34 @@
           "Skin_condition": "Fine",
           "Eyes_condition": "Good",
           "Feeling": "This is the condition after swimming. It is a little bit dry compared to Saturday."
+        },
+        {
+          "date":"September 13 2022",
+          "Humidifier": "Off",
+          "Skin_condition": "Good",
+          "Eyes_condition": "Good",
+          "Feeling": "Staying in the building all day. Wearing long sleeve hoodie is uncomfortable."
+        },
+        {
+          "date":"September 14 2022",
+          "Humidifier": "Off",
+          "Skin_condition": "Good",
+          "Eyes_condition": "Good",
+          "Feeling": "After staying indoors for two days, today was the day that I needed to pick up Lilo. Walking on the street, I can feel it become chill."
+        },
+        {
+          "date":"September 15 2022",
+          "Humidifier": "Off",
+          "Skin_condition": "OK",
+          "Eyes_condition": "Fine",
+          "Feeling": "Swimming in the morning, so I feel the dryness on my skin during the afternoon. Then I apply lotions to help me feel better."
+        },
+        {
+          "date":"September 16 2022",
+          "Humidifier": "Off",
+          "Skin_condition": "Fine",
+          "Eyes_condition": "Dry",
+          "Feeling": "It has become cold today. Autumn is coming. I hope the season transition won't affect my skin that much. My eyes are a little bit dry."
         }
                 
     ]
