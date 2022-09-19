@@ -1040,6 +1040,27 @@
           "Skin_condition": "Fine",
           "Eyes_condition": "Dry",
           "Feeling": "It has become cold today. Autumn is coming. I hope the season transition won't affect my skin that much. My eyes are a little bit dry."
+        },
+        {
+          "date":"September 17 2022",
+          "Humidifier": "Off",
+          "Skin_condition": "Good",
+          "Eyes_condition": "Fine",
+          "Feeling": "My skin condition is typical, with a regular amount of ance popping up before the period."
+        },
+        {
+          "date":"September 18 2022",
+          "Humidifier": "On starts at night",
+          "Skin_condition": "Good",
+          "Eyes_condition": "Good",
+          "Feeling": "Windy today, but humid and stiff underground. Uncomfortable, but no significant symptoms show up."
+        },
+        {
+          "date":"September 19 2022",
+          "Humidifier": "On",
+          "Skin_condition": "Good",
+          "Eyes_condition": "Good",
+          "Feeling": "Good with indoor condition with humidifier turns on."
         }
                 
     ]
