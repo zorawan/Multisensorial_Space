@@ -1061,6 +1061,21 @@
           "Skin_condition": "Good",
           "Eyes_condition": "Good",
           "Feeling": "Good with indoor condition with humidifier turns on."
-        }
+        },
+        {
+          "date":"September 20 2022",
+          "Humidifier": "On",
+          "Skin_condition": "Good",
+          "Eyes_condition": "bad",
+          "Feeling": "I was too busy with my work and class. Did not notice any physical reaction or changes today. But my eyes were dry during the 3 hours of zoom class."
+        },
+        {
+          "date":"September 21 2022",
+          "Humidifier": "On",
+          "Skin_condition": "Good",
+          "Eyes_condition": "Fine",
+          "Feeling": "Cool and windy outdoors. The humidifier was turned on last night, which makes us feel comfy."
+        },
+        
                 
     ]
