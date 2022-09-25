@@ -1076,6 +1076,34 @@
           "Eyes_condition": "Fine",
           "Feeling": "Cool and windy outdoors. The humidifier was turned on last night, which makes us feel comfy."
         },
+        {
+          "date":"September 22 2022",
+          "Humidifier": "On",
+          "Skin_condition": "Fine",
+          "Eyes_condition": "Fine",
+          "Feeling": "It has become cold today. It was raining in the morning, and we could see thunderstorms. I can feel I am healthier because of regularly swimming."
+        },
+        {
+          "date":"September 23 2022",
+          "Humidifier": "On",
+          "Skin_condition": "Fine",
+          "Eyes_condition": "Bad",
+          "Feeling": "Super cold today! Need two layers to go outside. I got ance on my face, which I am not sure is because of the seasonal transition or menstrual cycle."
+        },
+        {
+          "date":"September 24 2022",
+          "Humidifier": "On",
+          "Skin_condition": "Good",
+          "Eyes_condition": "Fine",
+          "Feeling": "Walking outside, I can feel the autumn coming. Leaves start to fall, the wind begins to blow, and people wear jackets."
+        },
+        {
+          "date":"September 25 2022",
+          "Humidifier": "Off",
+          "Skin_condition": "Bad",
+          "Eyes_condition": "Fine",
+          "Feeling": "Forget to set up the humidifier before sleeping. My throat and lip are dry when I wake up. The temperature was set to 75 F, which makes a perfect condition for my sleep."
+        },
         
                 
     ]
