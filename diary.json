@@ -1103,6 +1103,27 @@
           "Skin_condition": "Bad",
           "Eyes_condition": "Fine",
           "Feeling": "Forget to set up the humidifier before sleeping. My throat and lip are dry when I wake up. The temperature was set to 75 F, which makes a perfect condition for my sleep."
+        },
+        {
+          "date":"September 26 2022",
+          "Humidifier": "On",
+          "Skin_condition": "Fine",
+          "Eyes_condition": "Fine",
+          "Feeling": "Ances start to pop out! I don't even have time to look at it and apply different treatments after washing my face. The picture shows I accidentally cut my finger after 2 days when I don't feel the pain."
+        },
+        {
+          "date":"September 27 2022",
+          "Humidifier": "On",
+          "Skin_condition": "Fine",
+          "Eyes_condition": "Fine",
+          "Feeling": "I am in the room all day without going anywhere, work till 1am. The air conditioner makes me feel cold at midnight before I go sleep."
+        },
+        {
+          "date":"September 28 2022",
+          "Humidifier": "On",
+          "Skin_condition": "Fine",
+          "Eyes_condition": "Bad",
+          "Feeling": "It's cold and windy this morning, but it's still good to have a cold brew in the school building. The morning sunlight is dazzling. After staying indoors for a long time, I now feel the sensitivity of my eyes."
         }
         
                 
