@@ -1137,7 +1137,28 @@
           "Humidifier": "Off",
           "Skin_condition": "Ok",
           "Eyes_condition": "Fine",
-          "Feeling": "Wake up with abdominal cramps, even after having a pain killer. Acne reduce on my face."
+          "Feeling": "Wake up with abdominal cramps, even after having a pain killer. Acnes reduce on my face."
+        },
+        {
+          "date":"October 1 2022",
+          "Humidifier": "Off",
+          "Skin_condition": "Fine",
+          "Eyes_condition": "Fine",
+          "Feeling": "It rains all day and is windy because of the hurricane. We spent all day in the room with a temperature of 75 F."
+        },
+        {
+          "date":"October 2 2022",
+          "Humidifier": "Off",
+          "Skin_condition": "Fair",
+          "Eyes_condition": "Fine",
+          "Feeling": "A little bit dry in the evening without a humidifier. It reminds me of the winter the last year when I was alone in the dorm."
+        },
+        {
+          "date":"October 3 2022",
+          "Humidifier": "On",
+          "Skin_condition": "Fine",
+          "Eyes_condition": "Bad",
+          "Feeling": "Moving to Santa Fe. I feel sick on uber and feel better after arrival at the airport. I think about eyedrops on airplanes because of the dryness. However, I forget it anyway..."
         }
         
                 
