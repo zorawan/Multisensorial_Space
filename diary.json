@@ -1166,7 +1166,14 @@
           "Skin_condition": "Good",
           "Eyes_condition": "Fine",
           "Feeling": "I apply the cream to my hand in the morning. The cream is watery, making skin condition look good so far. Santa Fe seems green. I hope it is humid."
-        }
+        },
+        {
+          "date":"October 5 2022",
+          "Humidifier": "Off",
+          "Skin_condition": "Good",
+          "Eyes_condition": "Bad",
+          "Feeling": "It's raining today. Can't believe it is so green in New Mexico. My eyes are irritated by the contact lens. Otherwise, I enjoy the weather here."
+        }        
         
                 
     ]
