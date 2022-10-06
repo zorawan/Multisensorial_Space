@@ -1173,6 +1173,13 @@
           "Skin_condition": "Good",
           "Eyes_condition": "Bad",
           "Feeling": "It's raining today. Can't believe it is so green in New Mexico. My eyes are irritated by the contact lens. Otherwise, I enjoy the weather here."
+        },
+        {
+          "date":"October 6 2022",
+          "Humidifier": "Off",
+          "Skin_condition": "Fine",
+          "Eyes_condition": "Bad",
+          "Feeling": "Cloudy today. I feel tired while weak up. Skin is delicate, and eyes can be better. I really should bring prescription sunglasses for driving."
         }        
         
                 
