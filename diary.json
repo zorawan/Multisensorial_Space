@@ -1180,7 +1180,21 @@
           "Skin_condition": "Fine",
           "Eyes_condition": "Bad",
           "Feeling": "Cloudy today. I feel tired while weak up. Skin is delicate, and eyes can be better. I really should bring prescription sunglasses for driving."
-        }        
+        },
+        {
+          "date":"October 7 2022",
+          "Humidifier": "Off",
+          "Skin_condition": "Fine",
+          "Eyes_condition": "Bad",
+          "Feeling": "Went to white send national park, which has nice weather during the morning. It started to rain at 2pm when I had just started hiking. Sunlight made my eyes unbearable without sunglasses."
+        },
+        {
+          "date":"October 8 2022",
+          "Humidifier": "Off",
+          "Skin_condition": "Fine",
+          "Eyes_condition": "Bad",
+          "Feeling": "Wake up in El Paso, which is raining. My skin is delicate, and I must wear glasses to let my eyes rest from the contact lens."
+        }          
         
                 
     ]
