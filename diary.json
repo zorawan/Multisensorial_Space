@@ -1194,7 +1194,14 @@
           "Skin_condition": "Fine",
           "Eyes_condition": "Bad",
           "Feeling": "Wake up in El Paso, which is raining. My skin is delicate, and I must wear glasses to let my eyes rest from the contact lens."
-        }          
+        },
+        {
+          "date":"October 9 2022",
+          "Humidifier": "Off",
+          "Skin_condition": "Good",
+          "Eyes_condition": "Bad",
+          "Feeling": "Wake up in Carlsbad in the early morning. My Lip was dry the past two days, so I used a lip mask during sleep. It turned out better this morning."
+        }            
         
                 
     ]
