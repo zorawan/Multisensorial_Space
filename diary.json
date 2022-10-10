@@ -1201,7 +1201,14 @@
           "Skin_condition": "Good",
           "Eyes_condition": "Bad",
           "Feeling": "Wake up in Carlsbad in the early morning. My Lip was dry the past two days, so I used a lip mask during sleep. It turned out better this morning."
-        }            
+        },
+        {
+          "date":"October 10 2022",
+          "Humidifier": "Off",
+          "Skin_condition": "Good",
+          "Eyes_condition": "Fair",
+          "Feeling": "My flight got canceled, so I need to stay in Santa Fe for an extra night. It is more humid than the south but colder. Wearing glasses today make my eyes feel comfortable."
+        }                
         
                 
     ]
