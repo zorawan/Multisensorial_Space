@@ -1208,6 +1208,20 @@
           "Skin_condition": "Good",
           "Eyes_condition": "Fair",
           "Feeling": "My flight got canceled, so I need to stay in Santa Fe for an extra night. It is more humid than the south but colder. Wearing glasses today make my eyes feel comfortable."
+        },
+        {
+          "date":"October 11 2022",
+          "Humidifier": "Off",
+          "Skin_condition": "Fine",
+          "Eyes_condition": "Bad",
+          "Feeling": "I took a shower at night, which made me sleep well. I feel dry eyes after getting to New York."
+        },
+        {
+          "date":"October 12 2022",
+          "Humidifier": "Off",
+          "Skin_condition": "Bad",
+          "Eyes_condition": "Bad",
+          "Feeling": "Swimming in the morning made my skin dry, and I could see the difference in my hand. Washing my hair for two days also made my scalp very dry."
         }                
         
                 
