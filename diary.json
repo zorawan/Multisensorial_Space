@@ -1243,7 +1243,21 @@
           "Skin_condition": "Bad",
           "Eyes_condition": "Bad",
           "Feeling": "I got dry eyes and feel really uncomfortable today. I spent more time looking at the screen than usual. I can feel the tension on my skin too."
-        }                       
+        },
+        {
+          "date":"October 16 2022",
+          "Humidifier": "On",
+          "Skin_condition": "Bad",
+          "Eyes_condition": "Bad",
+          "Feeling": "I walked outdoors and ran indoors. The dryness feeling continues, which can be seen in my fingernails. I like to peel it when it is dry."
+        }, 
+        {
+          "date":"October 17 2022",
+          "Humidifier": "On",
+          "Skin_condition": "Bad",
+          "Eyes_condition": "Bad",
+          "Feeling": "After exercise yesterday, I feel a broken in my body, muscle ache, and muscle tightness. I don't know how to describe it, but it has been hard to act normally since I woke up."
+        }                     
         
                 
     ]
