@@ -1257,7 +1257,28 @@
           "Skin_condition": "Bad",
           "Eyes_condition": "Bad",
           "Feeling": "After exercise yesterday, I feel a broken in my body, muscle ache, and muscle tightness. I don't know how to describe it, but it has been hard to act normally since I woke up."
-        }                     
+        },
+        {
+          "date":"October 18 2022",
+          "Humidifier": "On",
+          "Skin_condition": "Bad",
+          "Eyes_condition": "Fair",
+          "Feeling": "This is the photo right after swimming. My skin peeled with white shavings, but it turned better after a couple of hours."
+        },
+        {
+          "date":"October 19 2022",
+          "Humidifier": "On",
+          "Skin_condition": "Fine",
+          "Eyes_condition": "Fair",
+          "Feeling": "My skin looks better, and my eyes are not itching anymore. Not sure if it is because of the humidity changes or if I am adapting to the environment."
+        },
+        {
+          "date":"October 20 2022",
+          "Humidifier": "On",
+          "Skin_condition": "Bad",
+          "Eyes_condition": "Fair",
+          "Feeling": "I feel my neck hurt. I can't even turn my head to the right."
+        }                         
         
                 
     ]
