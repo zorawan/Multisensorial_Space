@@ -1278,7 +1278,14 @@
           "Skin_condition": "Bad",
           "Eyes_condition": "Fair",
           "Feeling": "I feel my neck hurt. I can't even turn my head to the right."
-        }                         
+        },
+        {
+          "date":"October 21 2022",
+          "Humidifier": "On",
+          "Skin_condition": "Fair",
+          "Eyes_condition": "Bad",
+          "Feeling": "My eyes are dry, and I still suffer from the nick pain. However, today will be the last day of my diary. I am satisfied that I made it for half a year. Today won't be the end of my journey, but it is the start of my next chapter."
+        }                      
         
                 
     ]
